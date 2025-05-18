@@ -21,7 +21,7 @@ func main() {
 
 // mock db calls
 func getUser() {
-	time.Sleep(100 * time.Millisecond)
+	time.Sleep(300 * time.Millisecond)
 	fmt.Println("user: Adam")
 }
 

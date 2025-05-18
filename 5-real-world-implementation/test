@@ -1,0 +1,53 @@
+
+
+path parameter -> get specific data by user_id, etc
+query parameter -> filter data dari list -> bbrp param sekaligus name = Adam & year = 2021
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Route awal
+/users
+
+Tambahin ke group /api/v1
+
+Hasil akhir
+/api/v1/users
+
+route group + route orignal
+---
+
+

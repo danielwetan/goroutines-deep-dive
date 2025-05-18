@@ -52,6 +52,5 @@ func main() {
 	totals["storeB"] = getPrice("storeB", []string{"laptop"})
 
 	sendInvoices(stores, totals)
-
 	fmt.Println("Total time:", time.Since(start)) // ≈ 4s
 }
